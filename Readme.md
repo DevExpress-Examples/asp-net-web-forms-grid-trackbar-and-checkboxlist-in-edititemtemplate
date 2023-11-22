@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Grid View for ASP.NET Web Forms - How to use ASPxTrackBar and ASPxCheckBoxList editors edit form
+# Grid View for ASP.NET Web Forms - How to use ASPxTrackBar and ASPxCheckBoxList editors in edit form
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e3804/)**
 <!-- run online end -->
