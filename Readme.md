@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Grid View for ASP.NET Web Forms - How to use ASPxTrackBar and ASPxCheckBoxList editors in edit form
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128543525/)**
-<!-- run online end -->
 
 This example demonstrates how to add [ASPxCheckBoxList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxCheckBoxList) and [ASPxTrackBar](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxCheckBoxList) to [EditItemTemplate](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.EditItemTemplate).
 
